@@ -1,0 +1,44 @@
+{
+  "name": "react-cli-spinners2",
+  "version": "0.0.0",
+  "description": "CLI Spinners for your React app",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/jamiebuilds/react-cli-spinners2",
+  "author": "Jamie Builds <me@thejameskyle.com>",
+  "keywords": [
+    "react",
+    "cli",
+    "spinner",
+    "spinners",
+    "terminal",
+    "term",
+    "console",
+    "ascii",
+    "unicode",
+    "loading",
+    "indicator",
+    "progress",
+    "busy",
+    "wait",
+    "idle"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "example": "parcel ./example/index.html",
+    "test": "ava"
+  },
+  "peerDependencies": {
+    "react": "^16.5.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "flow-bin": "^0.80.0",
+    "parcel": "^1.9.7",
+    "react": "^16.0.0",
+    "react-dom": "^16.5.0",
+    "react-test-renderer": "^16.5.0"
+  }
+}
