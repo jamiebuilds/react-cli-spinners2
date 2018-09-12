@@ -40,5 +40,8 @@
     "react": "^16.0.0",
     "react-dom": "^16.5.0",
     "react-test-renderer": "^16.5.0"
+  },
+  "dependencies": {
+    "cli-spinners": "^1.3.1"
   }
 }
